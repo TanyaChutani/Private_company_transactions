@@ -1,0 +1,9 @@
+source_name,signal_area,access_type,used_in_poc,production_use,quality_notes
+GDELT Doc API,news_public_mentions,public_api,yes,Daily news and press article ingestion,Good breadth but noisy; requires entity resolution and source reliability scoring
+Google News RSS,news_public_mentions,public_rss,no,Supplementary freshness feed,Terms and coverage should be monitored
+Company press pages,company_owned_updates,public_web,no,Leadership board partnership and financing updates,High precision but requires website crawling and change detection
+OpenCorporates,company_identity,public_api_or_web,no,Universe enrichment and registration metadata,Jurisdiction coverage varies
+Companies House UK,filings_and_directors,public_api,no,Director changes and filings for UK companies,UK only but high quality
+SEC EDGAR,public_filings,public_api,no,US filings subsidiary debt and IPO preparation signals,Useful where private-company signals touch public filings
+Greenhouse Lever Ashby,public_hiring,public_job_pages,no,Hiring velocity and role-type signals,Only if company uses public ATS pages
+USPTO EPO Google Patents,patents,public_api_or_web,no,Patent velocity and technology asset signals,Name matching can be noisy

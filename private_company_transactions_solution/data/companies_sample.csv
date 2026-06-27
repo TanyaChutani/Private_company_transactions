@@ -1,0 +1,11 @@
+company_id,company_name,domain,country,industry,aliases
+c001,Canva,canva.com,Australia,Design Software,"Canva Pty Ltd;Canva Inc"
+c002,Stripe,stripe.com,United States,Payments,"Stripe Inc;Stripe Payments"
+c003,Databricks,databricks.com,United States,Data Infrastructure,"Databricks Inc"
+c004,Revolut,revolut.com,United Kingdom,Fintech,"Revolut Ltd"
+c005,Bolt,bolt.eu,Estonia,Mobility,"Bolt Technology;Taxify"
+c006,Checkout.com,checkout.com,United Kingdom,Payments,"Checkout Ltd;Checkout.com Group"
+c007,Anduril,anduril.com,United States,Defense Technology,"Anduril Industries"
+c008,Northvolt,northvolt.com,Sweden,Battery Manufacturing,"Northvolt AB"
+c009,Mistral AI,mistral.ai,France,AI Infrastructure,"Mistral;Mistral AI SAS"
+c010,Razorpay,razorpay.com,India,Payments,"Razorpay Software Private Limited"
